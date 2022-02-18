@@ -1,2 +1,63 @@
-![image](https://user-images.githubusercontent.com/33353823/154731947-47321050-bfc1-452a-8a2e-89cb10647d57.png)
-# mailscan
+.. image:: ![image](https://user-images.githubusercontent.com/33353823/154732224-9467b178-64df-40e8-bd9e-2a86f4281316.png)
+
+|
+
+
+.. image:: https://img.shields.io/github/workflow/status/Nekmo/dirhunt/Tests.svg?style=flat-square&maxAge=2592000
+  :target: https://github.com/Nekmo/dirhunt/actions?query=workflow%3ATests
+  :alt: Latest Tests CI build status
+
+.. image:: https://img.shields.io/pypi/v/dirhunt.svg?style=flat-square
+  :target: https://pypi.org/project/dirhunt/
+  :alt: Latest PyPI version
+
+.. image:: https://img.shields.io/pypi/pyversions/dirhunt.svg?style=flat-square
+  :target: https://pypi.org/project/dirhunt/
+  :alt: Python versions
+
+.. image:: https://img.shields.io/codeclimate/maintainability/Nekmo/dirhunt.svg?style=flat-square
+  :target: https://codeclimate.com/github/Nekmo/dirhunt
+  :alt: Code Climate
+
+.. image:: https://img.shields.io/codecov/c/github/Nekmo/dirhunt/master.svg?style=flat-square
+  :target: https://codecov.io/github/Nekmo/dirhunt
+  :alt: Test coverage
+
+.. image:: https://img.shields.io/requires/github/Nekmo/dirhunt.svg?style=flat-square
+     :target: https://requires.io/github/Nekmo/dirhunt/requirements/?branch=master
+     :alt: Requirements Status
+
+
+MailScan V.0.1
+#######
+
+.. image:: https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t.svg
+     :target: https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t
+     :align: center
+     :alt: MailScan Demo Video
+
+MailScan is a tool to make it easier to find email on a website
+
+.. code-block:: Install on Linux / WSL Windows
+
+    $ apt-get install php
+    $ apt-get install php-curl
+    
+.. code-block:: Install on Termux android
+
+    $ apt-get install php
+    $ apt-get install curl
+
+Features
+========
+
+* Email detection
+* First name detection
+* Last name detection
+* Profession detection
+* Email type detection
+
+
+Disclaimer
+==========
+Jika ingin Recode Harap Izin terlebih dahulu di `Facebook <https://www.facebook.com/Robot010/>`_. 
