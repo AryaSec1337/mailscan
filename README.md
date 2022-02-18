@@ -43,4 +43,4 @@ Features
 
 Disclaimer
 ==========
-Jika ingin Recode Harap Izin terlebih dahulu di `Facebook <https://www.facebook.com/Robot010/>`_ 
+Jika ingin Recode Harap Izin terlebih dahulu di <a href="https://www.facebook.com/Robot010/">Facebook</a> 
