@@ -16,8 +16,7 @@
 MailScan V.0.1
 #######
 
-.. image:: https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t.svg
-     :target: https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t
+[![asciicast](https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t.svg)](https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t)
      :align: center
      :alt: MailScan Demo Video
 
