@@ -17,17 +17,16 @@ MailScan V.0.1
 #######
 
 [![asciicast](https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t.svg)](https://asciinema.org/a/W5zWZQLkpt9nA3vxFX6bBy85t)
-     :align: center
-     :alt: MailScan Demo Video
+     MailScan Demo Video
 
 MailScan is a tool to make it easier to find email on a website
 
-.. code-block:: Install on Linux / WSL Windows
+Install on Linux / WSL Windows
 
     $ apt-get install php
     $ apt-get install php-curl
     
-.. code-block:: Install on Termux android
+Install on Termux android
 
     $ apt-get install php
     $ apt-get install curl
@@ -44,4 +43,4 @@ Features
 
 Disclaimer
 ==========
-Jika ingin Recode Harap Izin terlebih dahulu di `Facebook <https://www.facebook.com/Robot010/>`_. 
+Jika ingin Recode Harap Izin terlebih dahulu di `Facebook <https://www.facebook.com/Robot010/>`_ 
