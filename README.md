@@ -3,29 +3,17 @@
 |
 
 
-.. image:: https://img.shields.io/github/workflow/status/Nekmo/dirhunt/Tests.svg?style=flat-square&maxAge=2592000
-  :target: https://github.com/Nekmo/dirhunt/actions?query=workflow%3ATests
-  :alt: Latest Tests CI build status
+.. image:: ![image](https://img.shields.io/github/workflow/status/Nekmo/dirhunt/Tests.svg?style=flat-square&maxAge=2592000)
 
-.. image:: https://img.shields.io/pypi/v/dirhunt.svg?style=flat-square
-  :target: https://pypi.org/project/dirhunt/
-  :alt: Latest PyPI version
+.. image:: ![image](https://img.shields.io/pypi/v/dirhunt.svg?style=flat-square)
 
-.. image:: https://img.shields.io/pypi/pyversions/dirhunt.svg?style=flat-square
-  :target: https://pypi.org/project/dirhunt/
-  :alt: Python versions
+.. image:: ![image](https://img.shields.io/pypi/pyversions/dirhunt.svg?style=flat-square)
 
-.. image:: https://img.shields.io/codeclimate/maintainability/Nekmo/dirhunt.svg?style=flat-square
-  :target: https://codeclimate.com/github/Nekmo/dirhunt
-  :alt: Code Climate
+.. image:: ![image](https://img.shields.io/codeclimate/maintainability/Nekmo/dirhunt.svg?style=flat-square)
 
-.. image:: https://img.shields.io/codecov/c/github/Nekmo/dirhunt/master.svg?style=flat-square
-  :target: https://codecov.io/github/Nekmo/dirhunt
-  :alt: Test coverage
+.. image:: ![image](https://img.shields.io/codecov/c/github/Nekmo/dirhunt/master.svg?style=flat-square)
 
-.. image:: https://img.shields.io/requires/github/Nekmo/dirhunt.svg?style=flat-square
-     :target: https://requires.io/github/Nekmo/dirhunt/requirements/?branch=master
-     :alt: Requirements Status
+.. image:: ![image](https://img.shields.io/requires/github/Nekmo/dirhunt.svg?style=flat-square)
 
 
 MailScan V.0.1
