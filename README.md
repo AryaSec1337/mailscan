@@ -1,18 +1,3 @@
-![image](https://user-images.githubusercontent.com/33353823/154732224-9467b178-64df-40e8-bd9e-2a86f4281316.png)
-
-![image](https://img.shields.io/github/workflow/status/Nekmo/dirhunt/Tests.svg?style=flat-square&maxAge=2592000)
-
-![image](https://img.shields.io/pypi/v/dirhunt.svg?style=flat-square)
-
-![image](https://img.shields.io/pypi/pyversions/dirhunt.svg?style=flat-square)
-
-![image](https://img.shields.io/codeclimate/maintainability/Nekmo/dirhunt.svg?style=flat-square)
-
-![image](https://img.shields.io/codecov/c/github/Nekmo/dirhunt/master.svg?style=flat-square)
-
-![image](https://img.shields.io/requires/github/Nekmo/dirhunt.svg?style=flat-square)
-
-
 MailScan V.0.1
 #######
 
